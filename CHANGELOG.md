@@ -10,6 +10,13 @@ the package ships without a bump fails the release gate.
 
 ## [Unreleased]
 
+## [0.1.1] - 2026-09-03
+
+### Changed
+
+- Raised the test coverage gate from 90% to 100%, matching the suite's
+  complete coverage of the substitution contract.
+
 ## [0.1.0] - 2026-09-02
 
 ### Added
